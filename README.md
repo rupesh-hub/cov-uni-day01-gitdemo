@@ -13,7 +13,7 @@
 - Second item
 - Third item
 
-[GitHub]([https://www.example.com](https://github.com/rupesh-hub/cov-uni-day01-gitdemo/blob/main/README.md))
+[GitHub](https://www.example.com](https://github.com/rupesh-hub/cov-uni-day01-gitdemo/blob/main/README.md))
 
 | Name | Course |
 | ----------- | ----------- |
