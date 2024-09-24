@@ -15,7 +15,6 @@
 
 [title](https://www.example.com)
 
-| Syntax | Description |
+| Name | Course |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| Rupesh Dulal | BSc Honors on Informatics |
