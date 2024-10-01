@@ -3,20 +3,10 @@
 | Rupesh Dulal | BSc Honors on Informatics | To Study | BSc Honors on Informatics | 
 | Rabindra Kumar Sah | BSc Honors on Informatics | To Study | BSc Honors on Informatics |
 | Kumar Gentery | BSc Honors on Informatics | To Study | BSc Honors on Informatics |
-
-
-# About Me
-
-Hi, I’m **Rabindra Kumar Sah**, a Graphic Designer with over four years of experience creating impactful designs. I specialize in **Adobe Suite** and **Canva**, having worked at **Alaya** (formerly HLE Nepal Pvt Ltd), where I focused on branding, marketing, and web design.
-
-My passion is crafting designs that are both visually appealing and strategically aligned with business goals. Let’s collaborate to bring your creative vision to life!
-
-=======
 | Harsh Kumar | BSc Honors on Informatics | To Study | BSc Honors on Informatics |
 
 
-
-# About Me (Rupesh Dulal)
+# About Me
 
 ## 👤 Personal Information
 - **Name:** Rupesh Dulal
@@ -53,6 +43,58 @@ My passion is crafting designs that are both visually appealing and strategicall
 
 ## 📫 Contact Me
 - **Email:** dulalrupesh77@gmail.com
+
+=======
+
+# About Me (Rabindra Kumar Sah)
+
+## 👤 Personal Information
+- **Name:** Rabindra Kumar Sah
+- **Age:** 27
+- **Location:** Kolding, Denmark
+- **Permanent Location:** Loharpatti 05 Mahottari 45700, Nepal
+- **Profession:** Student
+
+## 🎓 Education
+- **Degree:** Bachelor in Computer Science(Hons.)
+- **University:** IUKL University
+- **Graduation Year:** 2020
+
+## 💼 Work Experience
+### Previous Position
+- **Job Title:** Junior Designer(Multimedia Designer)
+- **Company:** Alaya(Formely Known as HLE Nepal Pvt Ltd)
+- **Duration:** 2020 - 2024 August
+  
+## 🌟 Skills
+- **Programming Languages:** 
+  - Html, Css
+- **Design Tools:**
+  - Adobe Suites
+  - Canva
+  - Midjourney
+  - Leonardo AI
+ - **Content Tools:**
+  - Claude AI
+  - ChatGPT
+  - Office Suites
+- **Other Skills:**
+  - Team Leadership
+  - Communication
+  - Active Listener
+- **Language:**
+  - English
+  - Nepali
+  - Maithali
+  - Hindi
+
+## 🌍 Hobbies and Interests
+- **Traveling:** Exploring new cultures and cuisines.
+- **Photography:** Capturing moments through my lens.
+- **Gaming:** I like to play games and relax my mind.
+
+## 📫 Contact Me
+- **Email:** Rabindrakumarsah286@gmail.com
 
 
 
