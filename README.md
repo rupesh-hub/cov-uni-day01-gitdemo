@@ -93,6 +93,35 @@
 - **Photography:** Capturing moments through my lens.
 - **Gaming:** I like to play games and relax my mind.
 
+
+
+# RUPESH DULAL
+# CHECK IF THE NUMBER IS PALINDROME OR NOT
+# USED Java
+public static void main(String[] args) {
+        int x = 121;
+        int reverseNumber = 0;
+        int originalNumber = x;
+
+        while(x != 0){
+            int lastDigit = x % 10;
+            x /= 10;
+
+            reverseNumber = reverseNumber*10 + lastDigit;
+        }
+
+        System.out.println("ORIGINAL => "+ originalNumber);
+        System.out.println("REVERSED => "+ reverseNumber);
+
+        if(originalNumber == reverseNumber){
+            System.out.println("The number is a palindrome.");
+        } else {
+            System.out.println("The number is not a palindrome.");
+        }
+
+    }
+
+
 ## 📫 Contact Me
 - **Email:** Rabindrakumarsah286@gmail.com
 
